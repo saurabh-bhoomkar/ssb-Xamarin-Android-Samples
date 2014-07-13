@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner1"
+        android:prompt="@string/subCat_prompt2"
+        android:text="@string/subCat_prompt2" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText1" />
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner2"
+        android:prompt="@string/subCat_prompt"
+        android:text="@string/subCat_prompt" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText2" />
+    <Button
+        android:id="@+id/MyButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ConvertButton" />
+    <Button
+        android:id="@+id/SwapButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Swap units" />
+    <Button
+        android:text="Next Page"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/categorySwitch" />
+    <Button
+        android:text="For more conversion details"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/accessMainSource" />
+</LinearLayout>

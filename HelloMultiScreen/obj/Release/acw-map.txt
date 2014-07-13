@@ -1,0 +1,2 @@
+HelloMultiScreen.SecondActivity;hellomultiscreen.SecondActivity
+HelloMultiScreen.FirstActivity;hellomultiscreen.FirstActivity

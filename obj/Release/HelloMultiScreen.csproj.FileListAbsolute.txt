@@ -1,0 +1,16 @@
+E:\CODE it\Xamarin\HelloMultiScreen\bin\Release\HelloMultiScreen.dll
+E:\CODE it\Xamarin\HelloMultiScreen\bin\Release\hellomultiscreen.hellomultiscreen.apk
+E:\CODE it\Xamarin\HelloMultiScreen\bin\Release\hellomultiscreen.hellomultiscreen-Signed.apk
+E:\CODE it\Xamarin\HelloMultiScreen\obj\Release\HelloMultiScreen.csprojResolveAssemblyReference.cache
+E:\CODE it\Xamarin\HelloMultiScreen\obj\Release\HelloMultiScreen.dll
+E:\CODE it\Xamarin\HelloMultiScreen\obj\Release\android\bin\hellomultiscreen.hellomultiscreen.apk
+E:\CODE it\Xamarin\HelloMultiScreen\obj\Release\res\layout\main.xml
+E:\CODE it\Xamarin\HelloMultiScreen\obj\Release\res\values\strings.xml
+E:\CODE it\Xamarin\HelloMultiScreen\obj\Release\res\layout\second.xml
+E:\CODE it\Xamarin\HelloMultiScreen\obj\Release\res\drawable-hdpi\icon.png
+E:\CODE it\Xamarin\HelloMultiScreen\obj\Release\res\drawable-ldpi\icon.png
+E:\CODE it\Xamarin\HelloMultiScreen\obj\Release\res\drawable-mdpi\icon.png
+E:\CODE it\Xamarin\HelloMultiScreen\obj\Release\res\drawable-xhdpi\icon.png
+E:\CODE it\Xamarin\HelloMultiScreen\obj\Release\res\drawable-xxhdpi\icon.png
+E:\CODE it\Xamarin\HelloMultiScreen\obj\Release\R.cs.flag
+E:\CODE it\Xamarin\HelloMultiScreen\obj\Release\uploadflags.txt
